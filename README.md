@@ -5,6 +5,21 @@ Persian Text Summarization, Both Abstractive and extractive methods
 
 
 Welcome to my Text Summarization project implemented in Python using TensorFlow. This project aims to create a sequence-to-sequence model for automatic text summarization. The model learns to generate concise and meaningful summaries for given article texts. 
+<h1 align="center">
+  Text Summarization
+</h1>
+
+<h2 align="center">Persian Text Summarization, Both Abstractive and Extractive Methods</h2>
+
+<div align="center">
+
+[![Contact](https://img.shields.io/badge/contact-Parisa.rostaamii%40gmail.com-yellow.svg)](mailto:Parisa.rostaamii@gmail.com)
+
+</div>
+
+<h2 align="center">Text Summarization with Sequence-to-Sequence Model using TensorFlow (Abstractive)</h2>
+
+Welcome to my Text Summarization project implemented in Python using TensorFlow. This project aims to create a sequence-to-sequence model for automatic text summarization. The model learns to generate concise and meaningful summaries for given article texts.
 
 ## Project Overview
 
@@ -57,7 +72,6 @@ This project showcases the complete implementation of a sequence-to-sequence mod
 
 Feel free to contribute, experiment, and adapt this project to your own use cases and datasets. Happy coding!
 
-
-**Contact**: Parisa.rostaamii@gmail.com
+**Contact**: [Parisa.rostaamii@gmail.com](mailto:Parisa.rostaamii@gmail.com)
 
 

@@ -1,10 +1,3 @@
-# Text Summarization
-Persian Text Summarization, Both Abstractive and extractive methods
-
-# Text Summarization with Sequence-to-Sequence Model using TensorFlow(Abstractive)
-
-
-Welcome to my Text Summarization project implemented in Python using TensorFlow. This project aims to create a sequence-to-sequence model for automatic text summarization. The model learns to generate concise and meaningful summaries for given article texts. 
 <h1 align="center">
   Text Summarization
 </h1>

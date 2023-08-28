@@ -57,6 +57,48 @@ This project showcases the complete implementation of a sequence-to-sequence mod
 
 Feel free to contribute, experiment, and adapt this project to your own use cases and datasets. Happy coding!
 
+
+<h1 align="center">
+ Persian Text Summarization (Extractive Method)
+</h1>
+
+<div align="center">
+
+[![Contact](https://img.shields.io/badge/contact-Parisa.rostaamii%40gmail.com-yellow.svg)](mailto:Parisa.rostaamii@gmail.com)
+
+</div>
+
+
+Welcome to my Persian Text Summarization project implemented using an extractive method. This project focuses on generating concise summaries from given Persian text using a ranking algorithm.
+
+## Project Overview
+
+Text summarization is an essential task in natural language processing, and this project demonstrates an extractive approach to summarizing Persian text. The project is divided into the following key steps:
+
+1. **Data Collection**
+    - Utilized web scraping to collect Persian text data from various sources.
+    - Used the `urllib` and `BeautifulSoup` libraries to extract text from web pages.
+
+2. **Text Preprocessing**
+    - Tokenized the collected text into sentences and words using NLTK.
+    - Removed stopwords and irrelevant words from the tokenized text.
+
+3. **Sentence Ranking**
+    - Utilized word frequency to rank sentences based on their relevance.
+    - Calculated the ranking score for each sentence and selected the top ones.
+
+4. **Summarization Function**
+    - Developed a function to generate summaries by selecting top-ranked sentences.
+    - The function provides flexibility to choose the desired number of sentences in the summary.
+
+
+
+## Conclusion
+
+This project showcases an extractive approach to Persian text summarization using basic natural language processing techniques. By following the outlined steps, you can create simple yet effective summaries from given Persian text. Feel free to customize and expand upon this project to suit your specific use cases and datasets.
+
+
+
 **Contact**: [Parisa.rostaamii@gmail.com](mailto:Parisa.rostaamii@gmail.com)
 
 

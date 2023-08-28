@@ -50,14 +50,6 @@ Text summarization is a critical task in natural language processing, with appli
     - Utilized the trained model to predict summaries for new, unseen article texts.
     - Decoded the predicted indices into words, reconstructing the summarized text.
 
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Install the required dependencies using the provided `requirements.txt` file.
-3. Run the data preparation scripts to preprocess and tokenize the dataset.
-4. Configure the model architecture using the provided code.
-5. Train the model using the prepared dataset and architecture.
-6. Once trained, utilize the inference script to generate summaries for new article texts.
 
 ## Conclusion
 
